@@ -10,10 +10,10 @@
 
 ## Integrantes
 
-* **Klaus Bastian**
-* **Gianluca Debastiani Gonçalves**
-* **Luiz Henrique Spader Massen**
 * **Eduardo de Mattos Borba**
+* **Gianluca Debastiani Gonçalves**
+* **Klaus Bastian**
+* **Luiz Henrique Spader Massen**
 * **Samuel Antônio Silipi**
 
 ## Perguntas norteadoras
